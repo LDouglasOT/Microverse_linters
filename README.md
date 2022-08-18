@@ -17,18 +17,12 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
+-Visual studio code
 ### Setup
-
+- clone the repo first
+- Open the project in visual studio code
 ### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- RUN npm install to install dependencies
 
 ## Authors
 
