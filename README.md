@@ -17,9 +17,8 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
--Visual studio code
-### Setup
 - clone the repo first
+### Setup
 - Open the project in visual studio code
 ### Install
 - RUN npm install to install dependencies
